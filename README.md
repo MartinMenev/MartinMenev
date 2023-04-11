@@ -5,6 +5,8 @@
   It offers an option to add and share recipe ideas with other users, also get inspired by others recommendations. <br>
       [https://github.com/MartinMenev/ShopLizt](https://github.com/MartinMenev/ShopLizt)
 
+![Project image](https://user-images.githubusercontent.com/104612887/231045090-563153ba-919e-44c1-95a3-8c6a03511767.png)
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMenev&langs_count=5&theme=grey)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MartinMenev&count_private=true&theme=grey&showicons=true)]()
